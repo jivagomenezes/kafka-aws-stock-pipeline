@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Build directories
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Sensitive files
+kafka-stock-market-project-key.pem
+.data/
+
+# Virtual environment
+myenv/
+
