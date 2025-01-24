@@ -26,7 +26,8 @@ This project demonstrates a **real-time data ingestion pipeline** leveraging **K
 
 ## Diagram 📊
 
-[Kafka AWS Weather Pipeline](images/Kafka project)
+![Kafka AWS Weather Pipeline](images/Kafka%20project.png)
+
 ---
 
 ## How to Use 💻
